@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Data science (2).png" alt="GitHub Banner" width="100%" height="400" />
+  <img src="Data science (3).png" alt="GitHub Banner" width="100%" height="400" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Jay Prakash Gosai</h1>
